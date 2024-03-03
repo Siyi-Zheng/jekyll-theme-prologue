@@ -286,6 +286,12 @@
 				width: auto;
 			}
 		}
+		&.intro-photo {
+			float: right; /* Float the image to the right */
+			margin: 10px 0 10px 10px; /* Margin to create space around the image */
+			width: 200px; /* Set the width of the image */
+			height: auto; /* Maintain aspect ratio */
+		}
 	}
 
 /* List */
